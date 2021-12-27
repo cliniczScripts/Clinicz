@@ -1,0 +1,2 @@
+# Clinicz
+scripter for fivem
